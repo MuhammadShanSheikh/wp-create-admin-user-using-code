@@ -1,4 +1,4 @@
-# wp-create-admin-user-using-code
+# WP Create Admin User Using Code
 
 ```php
 // Create admin user using code
