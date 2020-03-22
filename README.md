@@ -1,5 +1,6 @@
 # wp-create-admin-user-using-code
 
+```php
 // Create admin user using code
 add_action( 'init', function () {
 	$username = 'admin2';
@@ -11,3 +12,4 @@ add_action( 'init', function () {
 		$user->set_role( 'administrator' );
 	}
 } );
+```
