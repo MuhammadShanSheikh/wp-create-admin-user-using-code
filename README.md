@@ -1,5 +1,5 @@
 # WP Create Admin User Using Code
-Add below code in function.php of selected theme after that login to you website with the below login details.
+Add below code in function.php of selected theme after that login to your website with the below login details.
 ```php
 // Create admin user using code
 add_action( 'init', function () {
